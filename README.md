@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+# Yihao Quan
+
+**Research interest:**
+- Foundation Models
+- (Multimodal) Large Language Models
+- Trustwothy AI
+- Interpretability AI
+---
+
+🌏 I warmly welcome the opportunity for meaningful cooperation. E-mail: qyhhere@gmail.com
+
+Following are some of the repositories that I have contributed to:
+
+
 <!--
 **itsqyh/itsqyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
