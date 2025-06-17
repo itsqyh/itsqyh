@@ -10,7 +10,7 @@
 
 🌏 I warmly welcome the opportunity for meaningful cooperation. E-mail: qyhhere@gmail.com
 
-Following are some of the repositories that I have contributed to:
+These are some repositories I contributed to:
 
 
 <!--
