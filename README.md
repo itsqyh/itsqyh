@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi, it's Yihao Quan here 👋
+I'm an Incoming CS PhD student @ Rutgers
 
-# Yihao Quan
-
-**Research interest:**
+**🧠 Research interest:**
 - Foundation Models
 - (Multimodal) Large Language Models
 - Trustwothy AI
