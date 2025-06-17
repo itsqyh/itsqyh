@@ -1,5 +1,5 @@
 ## Hi, it's Yihao Quan here 👋
-I'm an Incoming CS PhD student @ Rutgers
+🎓 I'm an Incoming CS PhD student @ Rutgers
 
 **🧠 Research interest:**
 - Foundation Models
