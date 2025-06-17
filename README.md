@@ -7,7 +7,7 @@
 - Trustwothy AI
 - Interpretability AI
 ---
-🌏 My personal [website](https://itsqyh.github.io/).
+🌏 My [personal website](https://itsqyh.github.io/).
 
 📫 I warmly welcome the opportunity for meaningful cooperation. E-mail: qyhhere@gmail.com
 
